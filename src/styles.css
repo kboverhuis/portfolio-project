@@ -1,0 +1,14 @@
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  color: seagreen;
+}
+
+h2,h3 {
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
